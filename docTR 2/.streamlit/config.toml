@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#0E4D64"              # deep teal‑blue
+backgroundColor="#F4F7F9"           # very light gray
+secondaryBackgroundColor="#EBF0F3"  # slightly darker
+textColor="#1F1F1F"                 # near‑black
+font="sans serif"
